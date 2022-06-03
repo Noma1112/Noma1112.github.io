@@ -134,5 +134,5 @@ username 을 표현 할때는 \`whoami\`<br>
 
 <br>
 ex)<br>
-export PS1="^[[41;37;4m["`whoami`"]"`hostname`":"`pwd`"#^[[0m"<br>
+export PS1="^[[41;37;4m["``whoami``"]"``hostname``":"``pwd``"#^[[0m"<br>
 ->  <U><span style='color:#808080;background-color:#ff0000'>[root] testserver01:/usr/temp#</span></U>
